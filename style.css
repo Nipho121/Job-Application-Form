@@ -1,0 +1,29 @@
+body{
+  background-color: rgb(139, 223, 223);
+  height: 100%;
+  width: 100%;
+}
+h1 {
+  text-align: center;
+}
+form {
+  margin: auto;
+  display: block;
+  font-size: 18px;
+  margin-left: 5%;
+}
+
+select {
+  width: 92%;
+  height: 100%;
+  font-size: 18px;
+  border-radius: 5px;
+  color: blue;
+}
+
+.other-details td input button {
+  margin-top: 10px;
+  font-size: 18px;
+  color: blue;
+
+}
